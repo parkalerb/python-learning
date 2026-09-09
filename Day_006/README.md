@@ -1,5 +1,3 @@
-# Day 036 - Python Advanced Concepts
-
 ## Overview
 
 Practiced advanced Python concepts that are useful for backend and Django development.
