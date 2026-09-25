@@ -2,7 +2,9 @@
 
 Welcome to my **Python Learning** repository!
 
-This repository documents my day-by-day journey of learning Python through consistent practice, hands-on coding, and mini projects. The goal is to build a strong programming foundation while developing clean coding habits and problem-solving skills required for Software Development and AI/ML.
+This repository documents my day-by-day journey of learning Python through consistent practice, hands-on coding, problem-solving, and practical mini projects.
+
+The goal is to build a strong programming foundation, develop clean coding habits, and prepare for Software Development and AI/ML roles.
 
 ---
 
@@ -11,9 +13,10 @@ This repository documents my day-by-day journey of learning Python through consi
 - Learn Python from beginner to advanced level
 - Build strong programming fundamentals
 - Practice writing clean and readable code
-- Develop problem-solving skills through daily exercises
-- Build mini projects using Python
-- Maintain consistency with daily GitHub contributions
+- Improve problem-solving skills
+- Build practical mini projects
+- Understand real-world Python concepts
+- Maintain consistent GitHub contributions
 - Prepare for Software Development and AI/ML roles
 
 ---
@@ -21,7 +24,7 @@ This repository documents my day-by-day journey of learning Python through consi
 ## 📂 Repository Structure
 
 ```text
-python-learning/
+python_learning/
 │
 ├── Day_001/
 │   ├── calculator.py
@@ -32,111 +35,33 @@ python-learning/
 │   └── README.md
 │
 ├── Day_003/
-│   └── ...
+│   ├── student_management.py
+│   ├── oop_notes.md
+│   └── README.md
+│
+├── Day_004/
+│   ├── employee_management.py
+│   ├── employees.txt
+│   └── README.md
+│
+├── Day_005/
+│   ├── traffic_validator.py
+│   ├── exceptions.py
+│   └── README.md
+│
+├── Day_006/
+│   ├── decorators.py
+│   ├── generators.py
+│   └── README.md
+│
+├── Day_007/
+│   ├── functional_programming.py
+│   └── README.md
+│
+├── Day_008/
+│   ├── api_data_processor.py
+│   ├── users.json
+│   ├── user_report.json
+│   └── README.md
 │
 └── README.md
-```
-
-Each learning day contains:
-
-- 📘 Concept Notes
-- 💻 Practice Programs
-- 🚀 Mini Project / Assignment
-- 📄 Day-wise Documentation
-
----
-
-## 📚 Topics Covered
-
-### ✅ Sprint 1
-
-- Python Basics
-- Variables & Data Types
-- Input & Output
-- Operators
-- Conditional Statements
-- Loops
-- Basic Calculator Project
-
-### ✅ Sprint 2
-
-- Functions
-- Parameters & Arguments
-- Return Statements
-- Local vs Global Variables
-- Docstrings
-- Type Hints
-- Function-based Calculator
-
----
-
-## 🛠️ Technologies Used
-
-- Python 3
-- Git
-- GitHub
-- Visual Studio Code
-
----
-
-## 📈 Learning Progress
-
-| Sprint | Status |
-|---------|--------|
-| Sprint 1 | ✅ Completed |
-| Sprint 2 | ✅ Completed |
-| Sprint 3 | 🔜 Coming Soon |
-
----
-
-## 🎯 Learning Goals
-
-This repository is part of my long-term roadmap to become a skilled Software Developer with a strong foundation in Python.
-
-Upcoming topics include:
-
-- Object-Oriented Programming (OOP)
-- File Handling
-- Exception Handling
-- Modules & Packages
-- Regular Expressions
-- Virtual Environments
-- Advanced Python
-- API Development
-- Automation Scripts
-
----
-
-## 💡 Why This Repository?
-
-This repository helps me:
-
-- Track daily learning progress
-- Improve coding consistency
-- Build a strong GitHub portfolio
-- Revise concepts quickly
-- Showcase practical Python skills
-
----
-
-## 🚀 Future Improvements
-
-- Add more real-world mini projects
-- Build command-line applications
-- Practice Python interview questions
-- Create automation projects
-- Integrate Python with APIs and databases
-
----
-
-## 👨‍💻 Author
-
-**Rohan Parkale**
-
-- MCA Student
-- Aspiring Software Developer
-- Passionate about Python, Machine Learning, and Software Development
-
----
-
-⭐ *If you find this repository useful, feel free to explore the projects and follow my learning journey.*
